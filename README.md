@@ -30,7 +30,7 @@ Users should be able to:
 
 ### Links
 
-- Live Site URL: [https://kaiens-lab.github.io/Blog-Preview-Card/]
+- Live Site URL: [Blog-Preview-Card](https://kaiens-lab.github.io/Blog-Preview-Card/)
 
 ## My process
 
